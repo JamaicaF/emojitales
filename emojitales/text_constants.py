@@ -1,4 +1,4 @@
-SOURCE_TEXT_FILE_PATH = './emojitales/source_texts/'
+SOURCE_TEXT_FILE_PATH = "./emojitales/source_texts/"
 
 APP_INTRODUCTION = f"""Can we tell stories using only emoji? 
 Emoji Tales is inspired by the work of Warja Lavater. 
